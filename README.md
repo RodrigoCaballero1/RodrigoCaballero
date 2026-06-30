@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Luis Caballero!
 
-<!--
-**RodrigoCaballero1/RodrigoCaballero1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student at the University of Central Florida focused on software development, full stack web applications, AI integration, databases, and business technology.
 
-Here are some ideas to get you started:
+## Portfolio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+https://luiscaballero.netlify.app/
+
+## Featured Projects
+
+### Pronunciemos!
+
+A Spanish pronunciation learning platform using React, FastAPI, OpenAI Whisper, Azure Speech Services, and MySQL.
+
+Code is private due to class and team project.
+
+### Contact Hub
+
+A full stack contact management application using HTML, CSS, JavaScript, PHP, and MySQL.
+
+Code is private due to class and team project.
+
+### Miami Motors
+
+A business website project built with React and TypeScript to improve customer engagement, product pages, and quote requests.
+
+Site is currently inactive.
+
+## Skills
+
+JavaScript, Python, C, SQL, Java, C#, HTML, CSS, React, TypeScript, FastAPI, PHP, MySQL, Firebase, Docker, REST APIs, Git, GitHub
