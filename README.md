@@ -12,13 +12,17 @@ https://luiscaballero.netlify.app/
 
 A Spanish pronunciation learning platform using React, FastAPI, OpenAI Whisper, Azure Speech Services, and MySQL.
 
-Code is private due to class and team project.
+Live project: https://chdr.cs.ucf.edu/pronunciemos-app/
+
+Source code is private due to class and team project.
 
 ### Contact Hub
 
 A full stack contact management application using HTML, CSS, JavaScript, PHP, and MySQL.
 
-Code is private due to class and team project.
+Live project: https://cop4331contacthub.xyz/
+
+Source code is private due to class and team project.
 
 ### Miami Motors
 
