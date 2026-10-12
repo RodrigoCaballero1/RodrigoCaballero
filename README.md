@@ -1,11 +1,3 @@
-# Hi, I'm Luis Caballero!
-
-I'm a Computer Science student at the University of Central Florida focused on software development, full stack web applications, AI integration, mobile development, databases, and business technology.
-
-## Portfolio
-
-https://luiscaballero.netlify.app/
-
 ## Featured Projects
 
 ### Pronunciemos!
@@ -32,12 +24,6 @@ A full stack contact management application using HTML, CSS, JavaScript, PHP, an
 
 Source code is private due to class and team project.
 
-### Miami Motors
-
-A business website project built with React and TypeScript to improve customer engagement, product pages, quote requests, and social media integrations.
-
-Site is currently inactive.
-
 ## Experience
 
 ### Agro Exportaciones Peru Foods
@@ -45,6 +31,12 @@ Site is currently inactive.
 Business Intelligence Analyst Intern
 
 Used Excel, SQL, and Python to improve inventory tracking, reporting, and digital data collection systems.
+
+### Miami Motors
+
+Web Developer Contract
+
+Designed and developed a responsive company website using React and TypeScript, including product pages, quote request forms, and social media integrations.
 
 ### Worldwide Courier Enterprise
 
@@ -54,6 +46,6 @@ Used Excel, SQL, and operational data to support shipment tracking, inventory re
 
 ## Skills
 
-Python, JavaScript, TypeScript, Java, C, C++, C#, PHP, SQL, Rust, Haskell, HTML, CSS
+SQL, Python, JavaScript, TypeScript, Java, C, C++, C#, PHP, Rust, Haskell, HTML, CSS
 
-React, Flutter, FastAPI, Node.js, Express, OpenAI API, Azure Speech Services, REST APIs, MySQL, MongoDB, Firebase, Git, GitHub, Docker, Postman, SwaggerHub, Jira
+Excel, MySQL, Matplotlib, Pandas, React, Flutter, FastAPI, Node.js, Express, OpenAI API, Azure Speech Services, REST APIs, MongoDB, Firebase, Git/GitHub, Docker, Postman, SwaggerHub, Jira
